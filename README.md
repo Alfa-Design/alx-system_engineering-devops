@@ -1,8 +1,4 @@
-#!/bin/bash
-Shell basics 0) Write a script that prints the absolute path name of the current working directory.
+Create a script that switches the current user to the user betty.
 
-Display the contents list of your current directory.
-Write a script that changes the working directory to the user’s home directory.
-Display current directory contents in a long format
-Display current directory contents, including hidden files (starting with .). Use the long format. 5)Display current directory contents.
-Long format with user and group IDs displayed numerically And hidden files (starting with .) 6)Create a script that creates a directory named and a script that prints the absolute path name of the current working directory.
+You should use exactly 8 characters for your command (+1 character for the new line)
+You can assume that the user betty will exist when we will run your script
